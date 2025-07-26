@@ -1,0 +1,11 @@
+.c1, .c2 {
+    font-size: 22px;
+}
+
+.c1 {
+    background-color: rgb(255, 0, 0);
+}
+
+.c2 {
+    background-color: rgb(0, 255, 0);
+}
